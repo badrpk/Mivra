@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laiba Badar</string>
+    <string name="app_description">Food and catering services</string>
+    
+    <!-- AdMob Unit IDs (Replace with your actual IDs) -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+    
+    <!-- App Features -->
+    <string name="feature_bill_payment">Easy bill payments</string>
+    <string name="feature_service_request">Service requests</string>
+    <string name="feature_outage_reporting">Outage reporting</string>
+    <string name="feature_customer_support">24/7 Customer support</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_share">Share App</string>
+    <string name="menu_rate">Rate App</string>
+    <string name="menu_about">About</string>
+    
+    <!-- Dialog Messages -->
+    <string name="about_title">About Laiba Badar</string>
+    <string name="about_message">Food and catering services.
+
+Features:
+• Easy bill payments
+• Service requests
+• Outage reporting
+• Customer support
+
+© 2024 Laiba Badar. All rights reserved.</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    
+    <!-- Error Messages -->
+    <string name="error_loading_website">Error loading website</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_timeout">Connection timeout</string>
+    
+    <!-- Success Messages -->
+    <string name="success_website_loaded">Website loaded successfully</string>
+    <string name="success_app_shared">App shared successfully</string>
+</resources>

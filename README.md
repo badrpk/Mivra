@@ -1,45 +1,9 @@
-# Laiba Badar Android App
+# Moved → [laibabadar](https://github.com/badrpk/laibabadar)
 
-## App Information
-- **Package Name**: com.laibabadar.app
-- **App Name**: Laiba Badar
-- **Description**: Delicious food delivery and restaurant services
-- **Category**: Food & Drink
-- **Domain**: laibabadar.com
+This project was **merged** into a single public monorepo for easier download and contribution.
 
-## Features
-- Food delivery
-- Restaurant booking
-- Menu browsing
-- Order tracking
+**Canonical repo:** https://github.com/badrpk/laibabadar
 
-## Development Setup
-1. Open project in Android Studio
-2. Update AdMob unit IDs in strings.xml
-3. Customize app icon and theme
-4. Test on device/emulator
-5. Build release APK/AAB
+Android app → `apps/android`
 
-## Monetization
-- AdMob banner ads
-- Interstitial ads
-- Rewarded video ads
-- In-app purchases
-- Premium features
-
-## Google Play Console
-- Developer Account: badar.zaman.ff@gmail.com
-- API Access: Enabled
-- Ready for submission
-
-## Build Instructions
-```bash
-# Build debug APK
-./gradlew assembleDebug
-
-# Build release APK
-./gradlew assembleRelease
-
-# Build AAB for Play Store
-./gradlew bundleRelease
-```
+Please open issues and PRs on the monorepo. This repository remains as a redirect for old links.
